@@ -1,1 +1,1 @@
-print('Hi user!')
+print('Omelchenko Daria 1st group')
